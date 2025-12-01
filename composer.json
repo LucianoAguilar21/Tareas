@@ -1,0 +1,17 @@
+{
+    "name": "luciano/php-basics",
+    "description": "php basics",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Luciano Aguilar"
+        }
+    ],
+    "require": {}
+}
